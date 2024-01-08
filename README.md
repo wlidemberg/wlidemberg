@@ -30,5 +30,3 @@ Wlidemberg de Sousa
     <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='PYTHON'>
     <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' alt='DJANGO'>
 </div>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wlidemberg)](https://github.com/anuraghazra/github-readme-stats)
