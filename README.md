@@ -16,7 +16,7 @@
 Cordialmente,
 Wlidemberg de Sousa
 
-![Wlidemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=wlidemberg&show_icons=true&theme=merko&locale=pt-br)
+![Wlidemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=wlidemberg&show_icons=true&theme=merko&locale=pt-br) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlidemberg&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso e que estou aprendendo
 
@@ -30,3 +30,5 @@ Wlidemberg de Sousa
     <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='PYTHON'>
     <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' alt='DJANGO'>
 </div>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
