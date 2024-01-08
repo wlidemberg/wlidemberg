@@ -31,4 +31,4 @@ Wlidemberg de Sousa
     <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' alt='DJANGO'>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wlidemberg)](https://github.com/anuraghazra/github-readme-stats)
