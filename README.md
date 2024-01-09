@@ -3,7 +3,7 @@
 
 ------------
 
-🤝🏽  Seja muito bem-vindo ao **meu repositório no GitHub!** Aqui, você encontrará um espaço dedicado ao meu trabalho como desenvolvedor web, onde compartilho projetos, códigos e ideias que refletem a minha paixão pela criação de soluções inovadoras na web.
+🤝🏽  Seja muito bem vindo ao **meu repositório no GitHub!** Aqui, você encontrará um espaço dedicado ao meu trabalho como desenvolvedor web, onde compartilho projetos, códigos e ideias que refletem a minha paixão pela criação de soluções inovadoras na web.
 
 📕  Estou cursando **Analise e Desenvolvimento de Sistemas** e em breve pretendo disponibilizar projetos em outras areas.
 
