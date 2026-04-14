@@ -1,32 +1,71 @@
-## Olá, meu nome é Wlidemberg de Sousa 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sousa.berg.80/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wlidemberg-sousa-465367101/) [![website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Meu_Site&style=for-the-badge&url=https://www.google.com)](https://www.google.com)
+# Olá, eu sou Wlidemberg de Sousa 👋
 
-------------
+QA Analyst (Junior) com foco em testes manuais e automatizados aplicados a sistemas web.
 
-🤝🏽  Seja muito bem vindo ao **meu repositório no GitHub!** Aqui, você encontrará um espaço dedicado ao meu trabalho como desenvolvedor web, onde compartilho projetos, códigos e ideias que refletem a minha paixão pela criação de soluções inovadoras na web.
+---
 
-📕  Estou cursando **Analise e Desenvolvimento de Sistemas** e em breve pretendo disponibilizar projetos em outras areas.
+## 🔎 Sobre este perfil
 
-💻  Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Como desenvolvedor web, busco constantemente aprender e aprimorar minhas habilidades, enfrentando desafios e explorando novas tecnologias para oferecer soluções eficientes e elegantes.
+Este repositório reúne projetos voltados para **Qualidade de Software (QA)**, com foco na validação de aplicações, identificação de falhas e automação de testes.
 
-🌐  Navegue pelos meus projetos e sinta-se à vontade para explorar o *código-fonte*. **Estou sempre aberto a feedback, colaborações e sugestões que possam enriquecer nossas experiências no mundo da programação**.
+Aqui você encontrará:
 
-🤗  Obrigado por visitar o meu GitHub. Espero que encontre inspiração, aprendizado e talvez até mesmo soluções para os seus próprios desafios de desenvolvimento web. Fique à vontade para entrar em contato, e juntos, vamos construir um futuro digital incrível!
+* Testes funcionais em aplicações web
+* Automação de testes end-to-end com Cypress
+* Testes de API utilizando Postman
+* Criação de casos de teste e cenários reais
+* Validação de fluxos críticos (login, cadastro, checkout)
 
-Cordialmente,
+---
+
+## 🛠️ Stack técnica
+
+### QA / Testes
+
+* Cypress (E2E)
+* Postman (API Testing)
+* Testes manuais e funcionais
+* Criação de cenários de teste
+* Análise de requisitos
+
+### Desenvolvimento
+
+* JavaScript
+* HTML5 / CSS3
+* Bootstrap / Tailwind CSS
+* React
+* Python / Django
+
+---
+
+## 📊 Objetivo
+
+Aplicar práticas de QA em projetos reais, simulando cenários de produção para garantir qualidade, confiabilidade e redução de falhas em sistemas.
+
+---
+
+## 📁 Projetos em destaque
+
+🔹 **cypress-orangehrm**
+Automação de testes E2E validando fluxo de autenticação e acesso ao sistema.
+
+🔹 **imob-backend**
+Projeto backend com foco em regras de negócio e validação de dados.
+
+---
+
+## 📕 Formação
+
+Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e qualidade de software.
+
+---
+
+## 🤝 Contato
+
+* Email: [automatizei@gmail.com](mailto:automatizei@gmail.com)
+* LinkedIn: wlidemberg-sousa-465367101
+
+---
+
 Wlidemberg de Sousa
 
-![Wlidemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=wlidemberg&show_icons=true&theme=merko&locale=pt-br) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlidemberg&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias que uso e que estou aprendendo
-
-<div style="display: flex; justify-content: between; align-items: center; flex-wrap: wrap;gap: 5px">
-    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'>
-    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'>
-    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='BOOTSTRAP'>
-    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=whitee' alt='Tailwind_CSS'>
-    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='JAVASCRIPT'>
-    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='REACT'>
-    <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='PYTHON'>
-    <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' alt='DJANGO'>
-</div>
